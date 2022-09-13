@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+To finish first, first you have to finish!
+
 <!--
 **ruangchupa/ruangchupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
