@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi world 👋
 
-To finish first, first you have to finish!
+> To finish first, first you have to finish!
+
+I code iOS Development (Swift, UIKit, SwiftUI), Flutter using Dart, React Native using Javascript / Typescript. Love it but turns out I'm not that good so I became a manager.
 
 <!--
 **ruangchupa/ruangchupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
